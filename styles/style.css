@@ -34,6 +34,13 @@ nav .nav-right-section a {
   color: #000;
 }
 
+#seccion-imagen {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
 .imagen-google {
   width: 50%;
 }
